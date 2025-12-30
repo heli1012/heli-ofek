@@ -1,0 +1,7 @@
+{
+  "name": "WIZO Global Conference RSVP & Concierge",
+  "description": "A premium event management platform for the WIZO Global Conference, featuring delegate RSVP tracking, smart concierge AI, and arrival analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
